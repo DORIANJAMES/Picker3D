@@ -1,7 +1,7 @@
 using System;
 using Unity.Mathematics;
 
-namespace Keys
+namespace Runtime.Keys
 {
     [Serializable]
     public struct HorizontalInputParams
